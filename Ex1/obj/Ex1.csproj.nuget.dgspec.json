@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saraa\\atividade11_poo\\Ex1\\Ex1.csproj": {}
+    "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\Ex1\\Ex1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saraa\\atividade11_poo\\Ex1\\Ex1.csproj": {
+    "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\Ex1\\Ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saraa\\atividade11_poo\\Ex1\\Ex1.csproj",
+        "projectUniqueName": "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\Ex1\\Ex1.csproj",
         "projectName": "Ex1",
-        "projectPath": "C:\\Users\\saraa\\atividade11_poo\\Ex1\\Ex1.csproj",
+        "projectPath": "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\Ex1\\Ex1.csproj",
         "packagesPath": "C:\\Users\\saraa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saraa\\atividade11_poo\\Ex1\\obj\\",
+        "outputPath": "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\Ex1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saraa\\AppData\\Roaming\\NuGet\\NuGet.Config"

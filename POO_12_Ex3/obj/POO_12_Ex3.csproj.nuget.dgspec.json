@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj": {}
+    "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj": {
+    "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj",
+        "projectUniqueName": "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj",
         "projectName": "POO_12_Ex3",
-        "projectPath": "c:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj",
+        "projectPath": "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\POO_12_Ex3.csproj",
         "packagesPath": "C:\\Users\\saraa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\obj\\",
+        "outputPath": "C:\\Users\\saraa\\atividade11_poo\\POO_Atividades_TiposClasses\\POO_12_Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saraa\\AppData\\Roaming\\NuGet\\NuGet.Config"
